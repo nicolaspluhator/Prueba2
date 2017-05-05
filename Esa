@@ -1,1 +1,59 @@
 Esto es una prueba de creacion de Repositorio.
+
+<html>
+<head>
+<title> Ejercicio </title>
+</head>
+<body>
+<!-- Este es el título -->
+<h1 align="center"><ins> Mi p&aacute;gina personal</ins></h1>
+
+<!-- La marquesina -->
+<marquee bgcolor="#FF0000" behavior="alternate"><font size="+5"> Sean bienvenidos a mi p&aacute;gina personal </font> </marquee>
+
+<!-- Parrafo a la izquierda -->
+<p align="left"><blockquote> Soy un texto de prueba que consta de una sangria y alinieado a la izquierda. </blockquote></p>
+
+<!-- Línea horizontal -->
+<hr/>
+
+<!-- Párrafo centrado -->
+<p align="center"> Soy un p&aacute;rrafo que se encuentra en el centro de la p&aacute;gina</p>
+
+<!-- Línea horizontal -->
+<hr>
+
+<!-- Texto preformateado -->
+<pre align="center"> Estudiante     Analista   Licenciado   Programador    </pre>
+
+<!-- Texto preformateado (otra forma) -->
+<pre>
+<p align="center"> Estudiante     Analista   Licenciado   Programador    </p>
+</pre>
+
+<!-- Sitios de interés -->
+<p><b><ins> Sitios de inter&eacute;s:</ins></b></p>
+
+<ul type="disc">
+	<li>Nombres
+	<ul type="circle">
+		<li>Cristian</li>
+		<li>Nicol&aacute;s</li>
+	</ul>
+	</li>
+
+
+	<li>Contacto
+	<ul type="circle">
+		<li>Tel&eacute;fonos</li>
+			<ul type="square">
+				<li>Celular: 3758-481745</li>
+				<li>Fijo: 3758-470203</li>
+			</ul>	
+		<li>Correo: nicolaspluhator@hotmail.com</li>		
+	</ul>
+	</li>	
+</ul>
+
+</body>
+</html>
